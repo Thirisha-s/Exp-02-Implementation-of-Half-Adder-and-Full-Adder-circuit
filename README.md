@@ -34,12 +34,11 @@ Sum =A’B’Cin + A’BCin’ + ABCin + AB’Cin’ = A ⊕ B ⊕ Cin Carry = A
 Connect the supply (+5V) to the circuit
 Switch ON the main switch
 If the output is 1, then the led glows.
-### 
-Program:
-```
+### Program
 Developed by: s.thirisha
 RegisterNumber:  212222230160
 # half adder:
+```
 module halfadder(a,b,s,c);
 input a,b;
 output s,c;
@@ -48,6 +47,7 @@ and (c,a,b);
 endmodule
 ```
 # full adder:
+```
 module fulladder(a,b,ci,s,co);
 input a,b,ci;
 output s,co;
@@ -58,9 +58,6 @@ and (f,a,b);
 or (co,e,f);
 endmodule
 ```
-Logic symbol & Truthtable
-RTL realization
-
 ### Output:
 ### RTL:
 # half adder:
