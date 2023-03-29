@@ -38,7 +38,7 @@ If the output is 1, then the led glows.
 Developed by: s.thirisha
 RegisterNumber:  212222230160
 # half adder:
-```
+```python
 module halfadder(a,b,s,c);
 input a,b;
 output s,c;
@@ -47,7 +47,7 @@ and (c,a,b);
 endmodule
 ```
 # full adder:
-```
+```python
 module fulladder(a,b,ci,s,co);
 input a,b,ci;
 output s,co;
