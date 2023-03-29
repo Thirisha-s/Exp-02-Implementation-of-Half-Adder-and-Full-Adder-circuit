@@ -72,7 +72,7 @@ endmodule
 ![Screenshot 2023-03-28 203539](https://user-images.githubusercontent.com/120380280/228282564-50a2b6f0-adfc-4664-a177-751da8fdedab.png)
 
 ### TRUTH TABLE :
-# hald adder:
+# half adder:
 ![Screenshot 2023-03-28 203547](https://user-images.githubusercontent.com/120380280/228282753-06896acf-5fbb-4022-801c-e1a6bc0474a3.png)
 # full adder:
 ![Screenshot 2023-03-28 203555](https://user-images.githubusercontent.com/120380280/228282840-fb15b2fa-f483-49b7-be53-d4a148fab6f2.png)
